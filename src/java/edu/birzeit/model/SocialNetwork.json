@@ -1,0 +1,42 @@
+{
+    "profile1":
+{
+        "name" : "Nariman Ammar",
+        "id" : "1",
+        "location" : "47,-122",
+        "address" : "4500 Cass Avenue, Detroit MI 48202",
+        "friends":["2","4"]
+},
+    "profile2":
+{
+        "name" : "Alice Bob",
+        "id" : "2",
+        "location" : "42.3,-83.2",
+        "address" : "6320 Asbury Park, Detroit MI 48228",
+        "friends":["1","5"]
+},
+    "profile3":
+{
+        "name" : "Sam Stanley",
+        "id" : "3",
+        "location" : "57,-94",
+        "address" : "New York",
+        "friends":["4"]
+},
+    "profile4":
+{
+        "name" : "Mathio Jerome",
+        "id" : "4",
+        "location" : "23,-152",
+        "address" : "Florida",
+        "friends":["1","3","5"]
+},
+    "profile5":
+{
+        "name" : "Nick Tom",
+        "id" : "5",
+        "location" : "52,-107",
+        "address" : "Texas",
+        "friends":["2","4"]
+}
+}
